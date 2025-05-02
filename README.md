@@ -4,9 +4,13 @@ A full-featured mobile application built using **Java**, **Android Studio**, and
 
 ---
 
-[▶️ Watch Demo Video](https://www.youtube.com/watch?v=your_video_id)
+[▶️ Watch Demo Video](https://www.youtube.com/watch?v=https://youtu.be/spZfR1_5y-U)
 
-![App Screenshot](Screenshots/Screenshot 2025-05-02 183213.png)
+![App Screenshot](screenshots/login_screen.png)
+![App Screenshot](screenshots/home_screen.png)
+![App Screenshot](screenshots/search_screen.png)
+![App Screenshot](screenshots/course_screen.png)
+![App Screenshot](screenshots/edit_course_screen.png)
 
 ---
 
