@@ -4,6 +4,12 @@ A full-featured mobile application built using **Java**, **Android Studio**, and
 
 ---
 
+[▶️ Watch Demo Video](https://www.youtube.com/watch?v=your_video_id)
+
+![App Screenshot](Screenshots/Screenshot 2025-05-02 183213.png)
+
+---
+
 ## 📋 Quick Overview
 
 This application is a full-stack **University Course Management System** developed for Android. It allows students and faculty to interact with course-related features such as registration, attendance, grading, and communication. The app integrates Firebase for backend services.
@@ -27,9 +33,6 @@ This application is a full-stack **University Course Management System** develop
 - **Kanban** – Project management and tracking (Trello/Jira/Notion, specify if needed)
 
 ---
-
-## 📦 Project Structure (Example)
-
 
 
 
